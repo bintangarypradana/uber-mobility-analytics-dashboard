@@ -1,7 +1,7 @@
 ## Uber Mobility Analytics Dashboard
 
 <p align="center">
-  <img src="images/demo-uber.gif" width="1000"/>
+  <img src="images/demo-uber.gif" width="1001"/>
 </p>
 
 ## Resources
