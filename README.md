@@ -11,7 +11,7 @@
 ## Project Overview
 This project focuses on analyzing Uber's platform by integrating key business and operational metrics into a centralized interactive dashboard. 
 
-As a **Data Analyst**, this dashboard is designed to provide insights into booking performance, revenue trends, service efficiency, and customer behavior, enabling stakeholders to make decisions and improve overall platform performance.
+As a **BI Analyst**, this dashboard is designed to provide insights into booking performance, revenue trends, service efficiency, and customer behavior, enabling stakeholders to make decisions and improve overall platform performance.
 
 ## Objectives
 - Monitor overall platform performance (bookings, revenue, service rates)
